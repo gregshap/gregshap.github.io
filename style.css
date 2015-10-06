@@ -1,0 +1,40 @@
+body {
+	font-family: 'Open sans', serif;
+	max-width: 600px;
+	margin:  30px auto 0;
+	background-color:#838C91;
+}
+
+#my-name {
+	text-align: center;
+	font-size: 60px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #333;
+	color: #bada55;
+}
+
+#pithy-remark {
+	margin-top: -20px;
+	text-align: center;
+}
+
+#proof-that-i-use-internets {
+	text-align: center;
+	font-size: 30px;
+}
+
+#proof-that-i-use-internets a {
+	margin-left: 10px;
+}
+
+#proof-that-i-use-internets a:nth-child(1) {
+	margin-left: 0px;
+}
+
+#proof-that-i-use-internets a:hover i{
+	color: #bada55;
+}
+
+#proof-that-i-use-internets i {
+	color:  black;
+}
